@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\HomeHttpServer.exe
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\HomeHttpServer.deps.json
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\HomeHttpServer.runtimeconfig.json
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\HomeHttpServer.dll
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\ref\HomeHttpServer.dll
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\HomeHttpServer.pdb
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\bin\Debug\net6.0\SimpleInjector.dll
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.csproj.CopyComplete
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.dll
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\ref\HomeHttpServer.dll
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.pdb
+C:\Users\User\source\repos\HomeHttp\HomeHttpServer\obj\Debug\net6.0\HomeHttpServer.genruntimeconfig.cache
